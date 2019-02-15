@@ -1,0 +1,12 @@
+Package: pwgarch
+Type: Package
+Title: An Experimental Alternative Prewhitening Scheme for Dendro Data
+Version: 0.1.0
+Author: Christian Zang
+Maintainer: Christian Zang <christian.zang@wzw.tum.de>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
